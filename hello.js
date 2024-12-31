@@ -1,3 +1,3 @@
-let Name = "YourName"
-let age = 100:
+let Name = "Sumedh"
+let age = 22:
 console.log(`Name: ${Name}, age:${age}`);
